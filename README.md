@@ -9,8 +9,6 @@ Clone: **gh repo clone aleph-code-walves/Python-Threads**
 
 Link: **(https://github.com/aleph-code-walves/Python-Threads/edit/main/)**
 
-Este site foi construído usando [GitHub Pages](https://pages.github.com/).
-
 
 ## Funções Especiais:
 
