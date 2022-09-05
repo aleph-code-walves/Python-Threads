@@ -1,7 +1,7 @@
 # Python-Threads
 
 
-Implementaação de Thread's utizando algoritmos de ordenação e multiplicação de vetores.
+Implementação de Thread's utizando algoritmos de ordenação e multiplicação de vetores.
 
 ## Copy
 
@@ -10,3 +10,25 @@ Clone: **gh repo clone aleph-code-walves/Python-Threads**
 Link: **(https://github.com/aleph-code-walves/Python-Threads/edit/main/)**
 
 Este site foi construído usando [GitHub Pages](https://pages.github.com/).
+
+
+## Funções Especiais:
+
+`res = np.sort(array, axis=None, kind='mergesort', order=None)`
+
+Faz ordenação de **vetores** de qualque tipo, utilizando o métedo [mergesort](https://algoritmosempython.com.br/cursos/algoritmos-python/pesquisa-ordenacao/mergesort/).
+
+
+`res = np.dot(A, B)`
+
+Faz a multiplicação de duas matrizes. 
+
+### Biblioteca utilizada: 
+- numpy
+- time
+- threading
+- logging
+
+
+
+
