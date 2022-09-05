@@ -14,7 +14,7 @@ Link: **(https://github.com/aleph-code-walves/Python-Threads/edit/main/)**
 
 `res = np.sort(array, axis=None, kind='mergesort', order=None)`
 
-Faz ordenação de **vetores** de qualque tipo, utilizando o métedo [mergesort](https://algoritmosempython.com.br/cursos/algoritmos-python/pesquisa-ordenacao/mergesort/).
+Faz ordenação de **vetores** de qualque tipo, utilizando o método [mergesort](https://algoritmosempython.com.br/cursos/algoritmos-python/pesquisa-ordenacao/mergesort/).
 
 
 `res = np.dot(A, B)`
