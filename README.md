@@ -23,7 +23,7 @@ Faz ordenação de **vetores** de qualque tipo, utilizando o métedo [mergesort]
 
 Faz a multiplicação de duas matrizes. 
 
-### Biblioteca utilizada: 
+### Bibliotecas utilizadas: 
 - numpy
 - time
 - threading
