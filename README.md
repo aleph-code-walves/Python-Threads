@@ -3,8 +3,8 @@
 Implementação de Thread's utizando algoritmos de ordenação e multiplicação de matrizes.
 
 Tópicos importantes:
- - Single Thread;
- - MultiThread.
+ - `Single Thread;`
+ - `MultiThread.`
 
 ## Copy
 
