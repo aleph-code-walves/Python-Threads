@@ -2,7 +2,7 @@
 
 Implementação de Thread's utizando algoritmos de ordenação e multiplicação de matrizes.
 
-Tópicos importantes =:
+Tópicos importantes:
  - Single Threa
  - MultiThread
 
