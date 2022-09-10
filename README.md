@@ -1,7 +1,10 @@
 # Python-Threads
 
+Implementação de Thread's utizando algoritmos de ordenação e multiplicação de matrizes.
 
-Implementação de Thread's utizando algoritmos de ordenação e multiplicação de vetores.
+Tópicos importantes =:
+ - Single Threa
+ - MultiThread
 
 ## Copy
 
